@@ -9,9 +9,9 @@ To innovate and replace existing non-efficient closed systems with more transpar
 ## NOTE :
 1. Each problem statement is designed to be a strong, practical blockchain based solution and hence every solution for the problem statement stated below must be built around / using XDC blockchain.
 2. Participants are given complete freedom for choosing technology, software architecture, programming languages etc. in the development of the application.
-3. People have to use XDC blockchain mandatorily. ( link : https://github.com/XinFinOrg/XDC01-docker-Nnodes )
+3. People have to use XDC blockchain mandatorily. ( link :[XDC docker nodes](https://github.com/XinFinOrg/XDC01-docker-Nnodes ) )
 4. Problem statements are meant to be generic in order to give participants flexibility to work around.
-5. Any other questions post them on this channel : https://xinfin-public.slack.com/messages/CELR2M831/
+5. Any other questions post them on this channel : [Channel Link](https://xinfin-public.slack.com/messages/CELR2M831/)
 
 ## Submission Guidelines
  [Submission Guidelines](../SubmissionGuide).
