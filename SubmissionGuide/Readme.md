@@ -36,7 +36,7 @@ You can use `SubmissionGuide/exampleSubmission.md` as a template if you like.
 
 Be sure that your project's folder links to the repo you've been working in, and contains any other supporting materials that you want evaluated by judges (such as links to a pitch deck or demo video).
 
-Once ready, submit via a new [pull request](https://github.com/XinFinOrg/Hackathon-Submissions/pulls).
+Once ready, submit via a new Pull Request.
 
 *Opening a Pull Request establishes your project as an "official" submission*
 
